@@ -1,0 +1,8 @@
+.reset {
+  display: flex;
+  width: 120px;
+  padding: 16px;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
